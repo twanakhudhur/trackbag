@@ -1,8 +1,32 @@
-# React + Vite
+# TreckBag
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TreckBag** is a web application designed to help outdoor enthusiasts plan and manage their hiking gear efficiently. Built with modern web technologies, this project provides an intuitive interface for organizing and tracking hiking equipment and essentials.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore the live demo [here](https://twanakhudhur.github.io/treckbag).
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/twanakhudhur/trackbag.git
+
+2. **Navigate to the project directory:**
+
+   cd fancycounter
+
+3. **Install dependencies:**
+
+    npm install
+
+
+4. **Start the development server:**
+
+   npm run dev
+
+
+Your app should now be running on http://localhost:5173 (or a similar port).
