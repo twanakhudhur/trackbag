@@ -4,7 +4,7 @@
 
 ## Demo
 
-Explore the live demo [here](https://twanakhudhur.github.io/treckbag).
+Explore the live demo [here](https://twanakhudhur.github.io/trackbag).
 
 ## Installation
 
