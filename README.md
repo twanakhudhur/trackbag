@@ -1,6 +1,16 @@
 # TreckBag
 
-**TreckBag** is a web application designed to help outdoor enthusiasts plan and manage their hiking gear efficiently. Built with modern web technologies, this project provides an intuitive interface for organizing and tracking hiking equipment and essentials.
+TrackBag is a dynamic to-do list application built with React and Vite, leveraging Zustand for state management. It provides a comprehensive suite of features for efficient task management:
+
+Add New Tasks: Seamlessly create and add new tasks to your list.
+Delete Tasks: Remove individual tasks with ease.
+Mark as Read: Keep track of completed tasks by marking them as read.
+Mark All as Read: Quickly update the status of all tasks in one action.
+Remove All Tasks: Clear the entire task list in a single step.
+Reset to Default: Restore the task list to its original state.
+Sort Tasks: Organize tasks by default, packed, or unpacked status.
+
+TrackBag is built using a clean, component-based architecture with pure CSS for styling, ensuring maintainability and a smooth user experience. It also integrates Google Fonts for enhanced typography, providing a polished and visually appealing interface.
 
 ## Demo
 
